@@ -36,9 +36,6 @@ Powered by C#, SixLabors.ImageSharp, and Sobel edge detection.
 
 Clone the repository and restore dependencies:
 
-git clone https://github.com/yourusername/ascii-generator.git
-cd ascii-generator
-dotnet restore
 
 🚀 Usage
 
