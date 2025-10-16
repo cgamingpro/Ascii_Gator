@@ -5,7 +5,7 @@ Powered by C#, SixLabors.ImageSharp, and Sobel edge detection.
 
 🖼️ Screenshots
 
-
+<img width="572" height="729" alt="Screenshot 2025-10-16 161952" src="https://github.com/user-attachments/assets/3f83671d-8bf0-4291-a061-60ae09cf5748" /> <img width="583" height="726" alt="Screenshot 2025-10-16 155439" src="https://github.com/user-attachments/assets/474d13ed-14f0-4177-9986-c4b565c36f67" /> <img width="1278" height="951" alt="Screenshot 2025-10-16 160933" src="https://github.com/user-attachments/assets/8ed2ada7-80b3-4a73-921a-4fb5b36b63d3" /> ![s6](https://github.com/user-attachments/assets/a02e0849-092c-4546-bbde-127d53f6b456) <img width="1276" height="970" alt="Screenshot 2025-10-16 161001" src="https://github.com/user-attachments/assets/81ec9eab-7b7b-4811-9818-76ca5b42943e" />
 
 
 
