@@ -10,9 +10,9 @@ class Program
 {
     static void Main()
     {
-        string path = "F:\\wg\\c#\\ASCII_GENRATOR\\Chig_Genrator\\demoImage\\s4.png";
-        string asciiChars = "@%#*+=-:.   ";
-        //string asciiChars = " .:-=+*#%@";
+        string path = "F:\\wg\\c#\\ASCII_GENRATOR\\Chig_Genrator\\demoImage\\s3.png";
+        //string asciiChars = "@%#*+=-:.   ";
+        string asciiChars = " .:-=+*#%@";
 
         float[,] sobleX = new float[,]
         {
